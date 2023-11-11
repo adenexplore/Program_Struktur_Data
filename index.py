@@ -8,7 +8,7 @@ def insertion_sort(arr):
             j -= 1
 
         arr[j + 1] = key
-
+#ini hasil dari atas
 arr = [12, 11, 13, 5, 6]
 insertion_sort(arr)
 
